@@ -42,9 +42,9 @@ Hello, my name is Anshuma Punia and I am from kaithal,Haryana. I recently gradua
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 ![Random Dev Meme](https://example.com/meme.jpg)
-
+ -->
 ---
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=anshumapunia&icon=0&color=0)](https://visitcount.itsvg.in)
