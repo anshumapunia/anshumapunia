@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [github.io](https://anshumapunia.github.io/)
+- 👨‍💻 All of my projects are available at ([github.io](https://anshumapunia.github.io/))
 
 - 💬 Ask me about **HTML,CSS,JavaScript,MongoDB,NodeJS,Express**
 
 - 📫 How to reach me **anshumapunia0@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1POjdPMFjOFN0KSQypUovvnSSv1H9Czae/view?usp=share_link)
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1POjdPMFjOFN0KSQypUovvnSSv1H9Czae/view?usp=share_link))
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug.**
 
 # 💫 About Me:
