@@ -25,7 +25,7 @@
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug.**
 
 # 💫 About Me:
-Hello, my name is Anshuma Punia and I am from kaithal,Haryana. I recently graduated with a BSc in Non-Medical in 2021. As a full-stack web developer, I am skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and Express. With my education and expertise, I have a strong foundation for building end-to-end web applications that incorporate both front-end and back-end development.
+Hello, my name is Anshuma Punia and I am from Noida , Utterpradesh. I recently graduated with a BSc in Non-Medical in 2021. As a full-stack web developer, I am skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and Express. With my education and expertise, I have a strong foundation for building end-to-end web applications that incorporate both front-end and back-end development.
 
 
 ## 🌐 Socials:
