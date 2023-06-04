@@ -14,8 +14,9 @@
 
 
 - 🌱 I’m currently learning **NodeJS**
+- My Linkedin Account is [Linkedin.com]https://www.linkedin.com/in/anshuma-punia/
 
-- 👨‍💻 All of my projects are available at [https://anshumapunia.github.io/](https://anshumapunia.github.io/)
+- 👨‍💻 All of my projects are available at [github.io](https://anshumapunia.github.io/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,MongoDB,NodeJS,Express**
 
