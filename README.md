@@ -6,7 +6,7 @@
           <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I am Anshuma Punia 🏽; I am a Full-Stack%20Web%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
 
-<img align="" alt="Coding" width="400" justify-content="centre" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<img align="" alt="Coding" width="400" margin="auto" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumapunia&label=Profile%20views&color=0e75b6&style=flat" alt="anshumapunia" /> </p>
 
