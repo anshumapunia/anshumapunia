@@ -14,7 +14,7 @@
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="[https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif]" 
+  <img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" 
        alt="Coding" 
        width="50%" 
        height="50%" 
