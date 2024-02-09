@@ -44,7 +44,7 @@
 
 <!-- Share your resume -->
 <h3>📄 My Resume:</h3>
-<p>Take a look at my <a href="https://drive.google.com/file/d/1wv_J5YEOn-7P5kicR4h25cNpN9_MO2LL/view?usp=drive_link"><strong>Resume</strong></a> to learn more about my experiences.</p>
+<p>Take a look at my <a href="https://drive.google.com/file/d/1EycgvvuHfHaG7Y4YQuL-bo6cpnVmzCe_/view?usp=sharing"><strong>Resume</strong></a> to learn more about my experiences.</p>
 
 <!-- Add a fun fact to create engagement -->
 <h3>⚡ Fun Fact:</h3>
